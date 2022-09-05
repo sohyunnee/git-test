@@ -1,1 +1,2 @@
 sample 파일 추가
+t2 sample 설명 추가
